@@ -1,0 +1,45 @@
+.texto{
+
+  margin: auto;
+  width: 1700px; 
+  padding: 0px;
+
+}
+
+.persona{
+
+  padding-left: 200px;
+
+}
+ 
+.contenedor{
+  display:flex;
+  flex-direction: column;
+
+}
+
+.imagen{
+ 
+  width:500px; 
+  height:400px;
+  padding-left: 200px;
+  margin-bottom: 20px;
+   
+}
+
+.boton_perro{
+   position:absolute;
+   top: 570px;
+   right:900px;
+   display:inline-block;
+   font-size: 35px;
+
+}
+.boton_gato{
+  position:absolute;
+  top: 1000px;
+  right:900px;
+  display:inline-block;
+  font-size: 35px;
+
+}
